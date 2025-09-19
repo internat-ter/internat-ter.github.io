@@ -13,4 +13,4 @@ const countdownInterval = setInterval(function() {
 		document.getElementById("countdown").innerHTML = now;
 	}
 	
-});
+}, 0);
